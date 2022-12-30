@@ -1,4 +1,4 @@
-# Image Generator Open API & Streamlet
+# Image Generator Open AI & Streamlet
 
 
 ## Install the requirements
